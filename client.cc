@@ -1,4 +1,4 @@
-Finshed for C++ Client unsigned char
+//Finshed for C++ Client unsigned char
 //  main.cpp
 //  Server(int)
 //
